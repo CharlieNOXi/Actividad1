@@ -1,10 +1,9 @@
 {
-  "name": "edificaciones",
+  "name": "ciudad",
   "version": "1.0.0",
   "description": "Servidor de Express Node y Protocolos HTTP, creando un CRUD basado en construcciones de edificaciones de una ciudad",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "keywords": [
